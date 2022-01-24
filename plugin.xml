@@ -35,6 +35,8 @@
             <dict>
                 <key>NSAllowsArbitraryLoads</key>
                 <true/>
+                <key>UIRequiresFullScreen</key>
+                <true/>
             </dict>
         </config-file>
         

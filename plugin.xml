@@ -37,6 +37,10 @@
                 <true/>
                 <key>UIRequiresFullScreen</key>
                 <true/>
+                <key>NSCameraUsageDescription</key>
+                <string>Camera will be needed for the Work Order.</string>
+                <key>NSLocationWhenInUseUsageDescription</key>
+                <string>Location will be needed for the Work Order.</string>
             </dict>
         </config-file>
         
